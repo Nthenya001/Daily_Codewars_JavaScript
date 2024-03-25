@@ -1,4 +1,3 @@
-Certainly! Here's the complete README content formatted for GitHub:
 
 ```markdown
 # Array Difference
